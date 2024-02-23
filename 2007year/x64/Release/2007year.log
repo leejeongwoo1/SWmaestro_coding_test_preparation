@@ -1,0 +1,6 @@
+﻿  source.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 124 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  2007year.vcxproj -> C:\SWMaestro\coding_test_preparation\x64\Release\2007year.exe
